@@ -1,0 +1,6 @@
+{
+  "name": "Python IDE & Compiler",
+  "description": "A fully functional online Python IDE and compiler with real-time Pyodide execution, interactive terminal, multi-file management, and customizable workspace layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
